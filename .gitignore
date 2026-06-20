@@ -20,3 +20,8 @@ Thumbs.db
 
 .codex/
 .agents/
+
+# Next.js build outputs
+.next/
+out/
+
